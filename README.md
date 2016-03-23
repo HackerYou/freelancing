@@ -40,6 +40,8 @@ Huge thanks to our ever-growing freelancer community for sharing all of these re
 
 * Mentor at [Ladies Learning Code](http://ladieslearningcode.com) workshops. 
 
-*
+* Tap into the HackerYou Freelancer Slack and Basecamp channels. 
+
+* Recruitment agencies like [Creative Niche](http://www.creativeniche.com/) and [Vitamin Talent](https://vitamintalent.com/). 
 
 
