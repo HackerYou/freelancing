@@ -51,6 +51,6 @@ Huge thanks to our ever-growing freelancer community for sharing all of these re
 
 * [From Inquiry to Project Start: How to set up a process & impress clients](http://freelancetofreedomproject.com/freelance-process-to-save-time-impress-clients/): a long but helpful article from [The Freedom to Freelance Project](http://freelancetofreedomproject.com/).
 
-* [Pricing Models](https://gist.github.com/luclemo/386c253b10c1068503ab): a great resource from HackerYou grad [Lucas Lemonnier}(lucaslemonnier.com) on hourly pricing vs. daily pricing vs. project pricing vs. value pricing.
+* [Pricing Models](https://gist.github.com/luclemo/386c253b10c1068503ab): a great resource from HackerYou grad [Lucas Lemonnier](lucaslemonnier.com) on hourly pricing vs. daily pricing vs. project pricing vs. value pricing.
 
 
