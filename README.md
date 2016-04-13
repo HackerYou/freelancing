@@ -43,5 +43,14 @@ Huge thanks to our ever-growing freelancer community for sharing all of these re
 * Tap into the HackerYou Freelancer Slack and Basecamp channels. 
 
 * Recruitment agencies like [Creative Niche](http://www.creativeniche.com/) and [Vitamin Talent](https://vitamintalent.com/). 
+###Pricing & Scoping Projects
+
+* [Convert Nearly All Your Proposals](http://www.webagencypodcast.com/032/): a podcast from Web Agency Podcast
+
+* [The Art of Crafting Accurate Estimates] (http://alistapart.com/column/creating-accurate-estimates) from the folks at [A List Apart](http://alistapart.com/), a great resource 
+
+*[From Inquiry to Project Start: How to set up a process & impress clients](http://freelancetofreedomproject.com/freelance-process-to-save-time-impress-clients/): a long but helpful article from [The Freedom to Freelance Project](http://freelancetofreedomproject.com/).
+
+*[Pricing Models](https://gist.github.com/luclemo/386c253b10c1068503ab): a great resource from HackerYou grad [Lucas Lemonnier}(lucaslemonnier.com) on hourly pricing vs. daily pricing vs. project pricing vs. value pricing.
 
 
