@@ -30,6 +30,10 @@ Huge thanks to our ever-growing freelancer community for sharing all of these re
 
 * [The Pause Clause](http://ngenworks.com/business/the-pause-clause/) by NGen Works: something you can add to your contract.
 
+* [Hellosign](https://www.hellosign.com/): an online tool for electronically signing documents.
+
+* [Bonsai](https://www.hellobonsai.com/): a contract-building tool that integrates invoicing and e-signing.
+
 ###Finding Clients
 
 * Use your own personal network.
@@ -54,6 +58,31 @@ Huge thanks to our ever-growing freelancer community for sharing all of these re
 
 * [Pricing Models](https://gist.github.com/luclemo/386c253b10c1068503ab): a great resource from HackerYou grad [Lucas Lemonnier](lucaslemonnier.com) on hourly pricing vs. daily pricing vs. project pricing vs. value pricing.
 
+###Client Onboarding
+
+Before you spend too much time on the project, figure out the following: 
+
+* Find out the budget and timeline.
+* Figure out the scope.
+* Do they currently have a website? How was it built?
+* What is the prospective client's objective with the new site?
+* How will the client measure success?
+* Do they need design alongside development?
+* [100+ questions to ask when developing a site](http://marketingland.com/100-questions-you-must-ask-when-developing-web-site-86342)
+
+If you're developing a WordPress site, you should also consider the following:
+
+* It's not about pages, it's about custom templates and features.
+* Will they be using this theme for a long time, or potentially changing it in six months?
+
+###Proposals & Quotes
+
+* When writing a proposal, tailor the amount of technical jargon you use.
+* Consider quoting a price range instead of a fixed amount. Another option would be quoting different versions of the project -- one with just the basics, one with some enhancements and a third option with all the bells and whistles.
+* It's standard to require a 50% deposit before starting work.
+* Write up a contract and be sure to be clear about what is and is not included in the deliverables.
+* Get EVERYTHING in writing. 
+
 ###Accessibility
 
 Similar to brand or style guides, accessibility guides are becoming more popular and commonplace for larger companies. They're a great resource! 
@@ -63,3 +92,22 @@ Similar to brand or style guides, accessibility guides are becoming more popular
 * [BBC Accessibility Standards & Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
 
 * [Pearson Accessibility Guideline for E-Learning](http://wps.pearsoned.com/accessibility/115/29601/7577872.cw/)
+
+###🔥Tips
+
+* Take the amount of time you think a project will take and double OR triple it.
+
+* Don't agree to start work on a site until the client has their content together.
+
+* As soon as you start a project, get the communication OUT of your inbox and into a project management tool like [Trello](https://trello.com/), [Basecamp](http://basecamp.com) or [Jumpchart](https://jumpchart.com/).
+
+* Use version control like Github or Bitbucket.
+
+* Make extra money with an affiliate program like [Bluehost](https://www.bluehost.com/hosting/partner) or [WPEngine](http://wpengine.com/affiliate/).
+
+
+
+
+
+
+
