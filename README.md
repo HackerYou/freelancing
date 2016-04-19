@@ -43,6 +43,7 @@ Huge thanks to our ever-growing freelancer community for sharing all of these re
 * Tap into the HackerYou Freelancer Slack and Basecamp channels. 
 
 * Recruitment agencies like [Creative Niche](http://www.creativeniche.com/) and [Vitamin Talent](https://vitamintalent.com/). 
+
 ###Pricing & Scoping Projects
 
 * [Convert Nearly All Your Proposals](http://www.webagencypodcast.com/032/): a podcast from Web Agency Podcast
@@ -53,4 +54,12 @@ Huge thanks to our ever-growing freelancer community for sharing all of these re
 
 * [Pricing Models](https://gist.github.com/luclemo/386c253b10c1068503ab): a great resource from HackerYou grad [Lucas Lemonnier](lucaslemonnier.com) on hourly pricing vs. daily pricing vs. project pricing vs. value pricing.
 
+###Accessibility
 
+Similar to brand or style guides, accessibility guides are becoming more popular and commonplace for larger companies. They're a great resource! 
+
+* [Google's Accessibility Guide](https://www.google.com/design/spec/usability/accessibility.html)
+
+* [BBC Accessibility Standards & Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
+
+* [Pearson Accessibility Guideline for E-Learning](http://wps.pearsoned.com/accessibility/115/29601/7577872.cw/)
